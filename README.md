@@ -17,7 +17,9 @@
   <img align="center" alt="Kelvin-SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Kelvin-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Kelvin-Bitbucket" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" alt="Kelvin-Bitbucket" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
   <img align="center" alt="Kelvin-Bitbucket" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+  
 </div>
 
 ##
