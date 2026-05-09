@@ -42,15 +42,6 @@ Também curto estudar novas tecnologias, automações e projetos paralelos envol
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/kelvinsousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinsousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsousa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
 
 ## 📫 Contato
 
